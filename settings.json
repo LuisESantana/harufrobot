@@ -1,0 +1,16 @@
+{
+	"ownerid": "142808994656944128",
+	"token": "MzY3NzYxMjQ4NzU2MDM5Njgy.Dr6s8Q.BGgp12-u4PvHYJ6_rpiV7nssAmc",
+	"youtubeKey": "AIzaSyDMPFrZI85yJWg-LqfeO0ohiFTwN4LSODQ",
+	"prefix": "!",
+	"global": false,
+	"maxQueueSize": 30,
+	"volume": 50,
+	"anyoneCanSkip": true,
+	"anyoneCanAdjust": true,
+	"clearInvoker": false,
+	"ownerOverMember": true,
+	"botOwner": "125022557232562177",
+	"requesterName": true,
+	"enableQueueStat": true
+}
